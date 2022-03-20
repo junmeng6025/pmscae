@@ -1,0 +1,62 @@
+[
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   averaging_filter_data.c -o build/win64/averaging_filter_data.o",
+    "file": "averaging_filter_data.c",
+    "output": "build/win64/averaging_filter_data.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   averaging_filter_initialize.c -o build/win64/averaging_filter_initialize.o",
+    "file": "averaging_filter_initialize.c",
+    "output": "build/win64/averaging_filter_initialize.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   averaging_filter_terminate.c -o build/win64/averaging_filter_terminate.o",
+    "file": "averaging_filter_terminate.c",
+    "output": "build/win64/averaging_filter_terminate.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   averaging_filter.c -o build/win64/averaging_filter.o",
+    "file": "averaging_filter.c",
+    "output": "build/win64/averaging_filter.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_averaging_filter_api.c -o build/win64/_coder_averaging_filter_api.o",
+    "file": "interface/_coder_averaging_filter_api.c",
+    "output": "build/win64/_coder_averaging_filter_api.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_averaging_filter_mex.c -o build/win64/_coder_averaging_filter_mex.o",
+    "file": "interface/_coder_averaging_filter_mex.c",
+    "output": "build/win64/_coder_averaging_filter_mex.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   averaging_filter_emxutil.c -o build/win64/averaging_filter_emxutil.o",
+    "file": "averaging_filter_emxutil.c",
+    "output": "build/win64/averaging_filter_emxutil.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_averaging_filter_info.c -o build/win64/_coder_averaging_filter_info.o",
+    "file": "interface/_coder_averaging_filter_info.c",
+    "output": "build/win64/_coder_averaging_filter_info.o"
+  },
+  {
+    "directory": "D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\" -I \"D:\\TUM_local\\VL03_WS21\\Praktikum_MATLAB\\10_CodeGeneration\\Exercise_1\\codegen\\mex\\averaging_filter\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=averaging_filter_mex_c -D__USE_MINGW_ANSI_STDIO=1   D:/MATLAB/extern/version/c_mexapi_version.c -o build/win64/c_mexapi_version.o",
+    "file": "D:/MATLAB/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
