@@ -6,7 +6,7 @@ For the Simulink I have learned to build a control model and a Simscape multibod
 <br>
 ## To Learners:<br>
 If you want to follow this course to learn Matlab and Simulink, feel free to fork or download :D<br>
-check the folder **[TutorialMaterials]**, all the PPT slides and tasksheet are organized there.<br>
+check the folder **[TutorialMaterials]**, all the PPT slides and tasksheets are organized there.<br>
 
 ![image](https://user-images.githubusercontent.com/83095045/159157404-f6d36a66-8097-4a83-823f-c33395614dd5.png)
 <br>
