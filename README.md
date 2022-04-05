@@ -10,4 +10,6 @@ check the folder **[TutorialMaterials]**, all the PPT slides and tasksheets are 
 
 ![image](https://user-images.githubusercontent.com/83095045/159157404-f6d36a66-8097-4a83-823f-c33395614dd5.png)
 <br>
-Copyright @ Institute of Flight System Dynamics, Technical University of Munich (TUM)
+Copyright @ Institute of Flight System Dynamics, Technical University of Munich (TUM)<br>
+![image](https://user-images.githubusercontent.com/83095045/161864054-da4ecfd8-502f-447d-93de-399b21edf52b.png)
+
